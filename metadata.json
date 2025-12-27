@@ -1,0 +1,7 @@
+{
+  "name": "the power fit gym",
+  "description": "An AI-powered gym platform featuring personalized workout generation, pose analysis, progress prediction, and smart class booking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
